@@ -1,3 +1,5 @@
+task 1
+
 #!/bin/sh
 
 # Download and execute initial setup scripts
@@ -186,4 +188,4 @@ echo "Running getMessage.js..."
 npx hardhat run scripts/getMessage.js --network swisstronik
 echo "Message retrieved."
 
-echo "Done! Subscribe: https://t.me/feature_earning"
+echo "Done! omg_x_noor
